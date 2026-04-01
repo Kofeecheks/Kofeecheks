@@ -35,8 +35,8 @@
 ## GitHub stats
 
 <p align="center">
-  <img src="./profile/overview.svg" alt="GitHub Stats" />
-  <img src="./profile/languages.svg" alt="Top Languages" />
+  <img src="./profile/stats.svg" alt="GitHub Stats" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
 
 ---

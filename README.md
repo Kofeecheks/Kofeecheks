@@ -35,8 +35,8 @@
 ## GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kofeecheks&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kofeecheks&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="170" src="./profile/stats.svg" alt="GitHub stats" />
+  <img height="170" src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 
 ---

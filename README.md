@@ -17,7 +17,7 @@
 
 -  I build and modify **Space Station 14** related projects
 -  I work with **C#**, **TypeScript** and **JavaScript**
--  I like tools, experiments, game-related development and community projects
+-  I like tools, experiments, game-related development and community projects.
 -  I enjoy making things look clean, useful and a little bit sci-fi
 
 ---

@@ -35,8 +35,8 @@
 ## GitHub stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kofeecheks/github-stats/master/generated/overview.svg" alt="GitHub Stats" />
-  <img src="https://raw.githubusercontent.com/Kofeecheks/github-stats/master/generated/languages.svg" alt="Top Languages" />
+  <img src="./generated/overview.svg" alt="GitHub Stats" />
+  <img src="./generated/languages.svg" alt="Top Languages" />
 </p>
 
 ---

@@ -55,10 +55,10 @@
   <a href="https://github.com/Kofeecheks">
     <img src="https://img.shields.io/badge/GitHub-Kofeecheks-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="https://t.me/your_username">
+  <a href="[https://t.me/Solnyshchko](https://t.me/Solnyshchko)">
     <img src="https://img.shields.io/badge/Telegram-@your_username-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://discord.com/users/your_id">
+  <a href="https://discord.com/users/mute_soul">
     <img src="https://img.shields.io/badge/Discord-your_nickname-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>

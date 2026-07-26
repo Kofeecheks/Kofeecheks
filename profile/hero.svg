@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Mikhail Kiselman — Fullstack Engineer</title>
+  <desc id="desc">Fullstack engineer focused on fintech, SaaS, real-time systems, and AI products.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.55" stop-color="#111827"/>
+      <stop offset="1" stop-color="#172554"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="0.5" stop-color="#818cf8"/>
+      <stop offset="1" stop-color="#c084fc"/>
+    </linearGradient>
+    <radialGradient id="glowA">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity=".30"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB">
+      <stop offset="0" stop-color="#a855f7" stop-opacity=".25"/>
+      <stop offset="1" stop-color="#a855f7" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".045"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="360" rx="24" fill="url(#background)"/>
+  <rect width="1280" height="360" rx="24" fill="url(#grid)"/>
+  <circle cx="1050" cy="36" r="320" fill="url(#glowA)"/>
+  <circle cx="1170" cy="330" r="300" fill="url(#glowB)"/>
+
+  <g transform="translate(76 70)">
+    <rect width="84" height="6" rx="3" fill="url(#accent)"/>
+    <text x="0" y="72" fill="#f8fafc" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="52" font-weight="750" letter-spacing="-1.2">Mikhail Kiselman</text>
+    <text x="0" y="119" fill="#cbd5e1" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="27" font-weight="500">Fullstack Engineer</text>
+    <text x="0" y="169" fill="#94a3b8" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20">Fintech  •  SaaS  •  Real-time systems  •  AI products</text>
+
+    <g transform="translate(0 214)">
+      <rect width="286" height="48" rx="24" fill="#16a34a" fill-opacity=".13" stroke="#4ade80" stroke-opacity=".65"/>
+      <circle cx="25" cy="24" r="6" fill="#4ade80"/>
+      <text x="43" y="31" fill="#dcfce7" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18" font-weight="600">Open to remote opportunities</text>
+    </g>
+  </g>
+
+  <g transform="translate(914 113)" fill="none" stroke-linecap="round">
+    <path d="M0 72h92l42-42h110" stroke="#38bdf8" stroke-width="4" stroke-opacity=".75"/>
+    <path d="M0 112h124l38 38h112" stroke="#818cf8" stroke-width="4" stroke-opacity=".7"/>
+    <path d="M62 0v44l38 38" stroke="#c084fc" stroke-width="4" stroke-opacity=".65"/>
+    <circle cx="0" cy="72" r="9" fill="#38bdf8" stroke="none"/>
+    <circle cx="244" cy="30" r="9" fill="#38bdf8" stroke="none"/>
+    <circle cx="274" cy="150" r="9" fill="#818cf8" stroke="none"/>
+    <circle cx="62" cy="0" r="9" fill="#c084fc" stroke="none"/>
+    <circle cx="134" cy="30" r="8" fill="#0d1117" stroke="#38bdf8" stroke-width="4"/>
+    <circle cx="162" cy="150" r="8" fill="#0d1117" stroke="#818cf8" stroke-width="4"/>
+  </g>
+</svg>

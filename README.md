@@ -18,6 +18,8 @@ I'm a **Fullstack Engineer with 4+ years of commercial experience** building int
 
 My strongest areas are **fintech and payments, SaaS platforms, real-time systems, third-party integrations, and AI-enabled products**.
 
+My backend work also includes extensive hands-on experience with **Go** across APIs, integration services, concurrent workers, and internal tooling. Combined with end-to-end product ownership and production operations, this makes me a strong fit for Go-heavy backend teams while keeping me effective across the wider product stack.
+
 - Design APIs, services, background jobs, queues, and integration boundaries
 - Build customer-facing products and internal operational tools
 - Own authentication, billing, webhooks, failure recovery, and observability
@@ -40,6 +42,7 @@ My strongest areas are **fintech and payments, SaaS platforms, real-time systems
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -56,7 +59,7 @@ My strongest areas are **fintech and payments, SaaS platforms, real-time systems
 | Layer | Tools and practices |
 | --- | --- |
 | **Frontend** | TypeScript, React, Next.js, Vue.js, Tailwind CSS, state management, SSR, accessible responsive UI |
-| **Backend** | PHP 8 / Symfony, Node.js / NestJS, Python / FastAPI, REST, WebSocket, queues, workers, integrations |
+| **Backend** | PHP 8 / Symfony, Go, Node.js / NestJS, Python / FastAPI, REST, WebSocket, queues, workers, integrations |
 | **Data** | PostgreSQL, Redis, Prisma, EF Core, migrations, transactions, indexing |
 | **Delivery** | Docker, GitHub Actions, CI/CD, Vercel, Linux, structured logging, metrics, health checks |
 | **Quality & security** | Playwright, unit/e2e tests, code review, JWT, rate limiting, allowlists, SSRF-safe integrations |
